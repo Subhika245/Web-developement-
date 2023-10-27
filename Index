@@ -1,0 +1,47 @@
+Website HTML CSS Basics
+
+Default (GPT-3.5)
+
+User
+Simple coding website using html and css
+
+ChatGPT
+Creating a simple coding website using HTML and CSS is a great way to practice your web development skills. Here's a basic example to get you started:
+
+Create the HTML File (index.html):
+html
+Copy code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Coding Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Coding Website</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>This is where you can learn more about me and my coding journey.</p>
+        </section>
+        <section>
+            <h2>My Projects</h2>
+            <p>Check out some of the cool projects I've worked on.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
